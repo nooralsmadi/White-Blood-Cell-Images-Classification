@@ -9,4 +9,10 @@ This Project covers :
 -  Feature extraction using Gabor filter
 -  XGBoost
 
+# Description
+There are four different types of white blood cells. Although they appear similar, they each have distinct functions.The task here is to classify them using Machine Learning!
+
+![image](https://github.com/nooralsmadi/White-Blood-Cell-Images-Classification/assets/71272030/7d201afc-35a9-4b20-9392-e7b78d813010)
+
+
 
